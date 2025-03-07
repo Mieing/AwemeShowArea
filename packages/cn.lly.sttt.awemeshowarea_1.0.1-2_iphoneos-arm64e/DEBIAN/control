@@ -1,11 +1,11 @@
 Package: cn.lly.sttt.awemeshowarea
 Name: AwemeShowArea
-Version: 1.0.2
-Architecture: iphoneos-arm
 Description: Display publishing region
 Maintainer: lly·sttt
 Author: lly·sttt
 Section: Tweaks
 Depends: mobilesubstrate (>= 0.9.5000)
 Icon: https://Mieing.Github.io/repo/file/TikTok.png
-
+Architecture: iphoneos-arm64e
+Version: 1.0.1-2
+Installed-Size: 780
